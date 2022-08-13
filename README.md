@@ -1,4 +1,4 @@
-# Innopolis University. Machine Learning Assignment 1. Ravil Akhmetzhanov. 
+# Innopolis University. Machine Learning. Assignment 1. Ravil Akhmetzhanov. 
 ## Flight delay estimation
 
 There are 3 files in repository: 
